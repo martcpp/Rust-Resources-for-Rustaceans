@@ -1,6 +1,3 @@
-# Rust-Resources-for-Rustaceans
-This is a report on Rust, comprehensive material for beginners to advanced learners.
-
 # Rust Resources for Rustaceans
 
 Welcome to the Rust Resources for Rustaceans repository! This repository aims to provide comprehensive materials for both beginners and advanced learners of the Rust programming language.
